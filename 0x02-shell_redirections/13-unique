@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -f pattern [files]
+grep -w 
