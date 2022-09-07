@@ -1,2 +1,3 @@
 #!/bin/bash
-printf "%b\n" "hello user" \n"
+printf "hello user"
+
